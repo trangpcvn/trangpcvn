@@ -4,17 +4,17 @@
 
 <br/>
 
-<a href="https://github.com/trangc0de200"><img src="https://img.shields.io/badge/GitHub-trangc0de200-16140f?style=for-the-badge&logo=github&logoColor=faf9f5" /></a>
+<a href="https://github.com/trangpcvn"><img src="https://img.shields.io/badge/GitHub-trangpcvn-16140f?style=for-the-badge&logo=github&logoColor=faf9f5" /></a>
 <a href="mailto:vantrang.work@gmail.com"><img src="https://img.shields.io/badge/Email-vantrang.work-d97757?style=for-the-badge&logo=gmail&logoColor=faf9f5" /></a>
-<a href="https://linkedin.com/in/trangc0de200"><img src="https://img.shields.io/badge/LinkedIn-trangc0de200-8a5a44?style=for-the-badge&logo=linkedin&logoColor=faf9f5" /></a>
-<a href="https://web.minhbee.vn"><img src="https://img.shields.io/badge/Website-minhbee.vn-b8826a?style=for-the-badge&logo=googlechrome&logoColor=faf9f5" /></a>
+<a href="https://linkedin.com/in/trangpcvn"><img src="https://img.shields.io/badge/LinkedIn-trangpcvn-8a5a44?style=for-the-badge&logo=linkedin&logoColor=faf9f5" /></a>
+<a href="https://trangpc.vn"><img src="https://img.shields.io/badge/Website-minhbee.vn-b8826a?style=for-the-badge&logo=googlechrome&logoColor=faf9f5" /></a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Role-Senior_Developer-d97757?style=flat-square&labelColor=16140f" />
 <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Web3-8a5a44?style=flat-square&labelColor=16140f" />
 <img src="https://img.shields.io/badge/Based_in-Vietnam-b8826a?style=flat-square&labelColor=16140f" />
-<img src="https://komarev.com/ghpvc/?username=trangc0de200&style=flat-square&color=d97757&labelColor=16140f&label=Profile+views" />
+<img src="https://komarev.com/ghpvc/?username=trangpcvn&style=flat-square&color=d97757&labelColor=16140f&label=Profile+views" />
 
 </div>
 
@@ -113,11 +113,11 @@ const engineeringMindset = {
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trangc0de200&hide_border=true&background=16140f&stroke=8a5a44&ring=d97757&fire=d97757&currStreakLabel=d97757&sideLabels=c9c5bd&dates=8a7d70&currStreakNum=faf9f5&sideNums=faf9f5" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trangpcvn&hide_border=true&background=16140f&stroke=8a5a44&ring=d97757&fire=d97757&currStreakLabel=d97757&sideLabels=c9c5bd&dates=8a7d70&currStreakNum=faf9f5&sideNums=faf9f5" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=trangc0de200&bg_color=16140f&color=d97757&line=d97757&point=faf9f5&area_color=8a5a44&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=trangpcvn&bg_color=16140f&color=d97757&line=d97757&point=faf9f5&area_color=8a5a44&area=true&hide_border=true" />
 </div>
 
 <br/>
@@ -127,8 +127,8 @@ const engineeringMindset = {
 <div align="center">
 
 <a href="mailto:vantrang.work@gmail.com"><img src="https://img.shields.io/badge/Email-d97757?style=for-the-badge&logo=gmail&logoColor=faf9f5" /></a>
-<a href="https://linkedin.com/in/trangc0de200"><img src="https://img.shields.io/badge/LinkedIn-8a5a44?style=for-the-badge&logo=linkedin&logoColor=faf9f5" /></a>
-<a href="https://fb.com/trangc0de200"><img src="https://img.shields.io/badge/Facebook-b8826a?style=for-the-badge&logo=facebook&logoColor=faf9f5" /></a>
+<a href="https://linkedin.com/in/trangpcvn"><img src="https://img.shields.io/badge/LinkedIn-8a5a44?style=for-the-badge&logo=linkedin&logoColor=faf9f5" /></a>
+<a href="https://fb.com/trangpcvn"><img src="https://img.shields.io/badge/Facebook-b8826a?style=for-the-badge&logo=facebook&logoColor=faf9f5" /></a>
 <a href="https://web.minhbee.vn"><img src="https://img.shields.io/badge/Website-16140f?style=for-the-badge&logo=googlechrome&logoColor=faf9f5" /></a>
 
 </div>
@@ -141,8 +141,8 @@ const engineeringMindset = {
 
 If my work helps you, consider buying me a coffee — it keeps the late-night commits going.
 
-<!-- ⚠️ Thay "trangc0de200" bằng username Buy Me a Coffee thật của bạn -->
-<a href="https://buymeacoffee.com/trangc0de200">
+<!-- ⚠️ Thay "trangpcvn" bằng username Buy Me a Coffee thật của bạn -->
+<a href="https://buymeacoffee.com/trangpcvn">
   <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-d97757?style=for-the-badge&logo=buymeacoffee&logoColor=16140f" />
 </a>
 
